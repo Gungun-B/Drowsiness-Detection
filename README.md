@@ -23,7 +23,7 @@ A real-time **Drowsiness Detection System** that monitors a person's eye state a
   * Scipy (optional)
 
 
-## ▶️ Usage
+##  Usage
 
 Run the main script:
 
@@ -35,7 +35,7 @@ python src/main.py
 * If drowsiness is detected, an alert sound will trigger.
 
 
-## 🧠 How It Works
+##  How It Works
 
 * The system detects facial landmarks using a pre-trained model.
 * It calculates the **Eye Aspect Ratio (EAR)** to determine eye openness.
@@ -43,14 +43,14 @@ python src/main.py
 * An alert is triggered to wake the user.
 
 
-## 🎯 Applications
+##  Applications
 
 * Driver safety systems 🚗
 * Workplace fatigue monitoring 🏭
 * Student alertness tracking 📚
 
 
-## ⚠️ Limitations
+##  Limitations
 
 * Performance may vary in low lighting conditions
 * Requires a clear view of the face
